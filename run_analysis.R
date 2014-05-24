@@ -103,7 +103,6 @@ write.table(tidy, "tidy_data_smartphone_measurements_by_subject_by_activity.txt"
 
 ###Export tidy dataset names and ranges for use in Codebook.txt
 
-listOfVariables <- data.frame(names(tidy))
 write.csv(t(range.tidy),"listOfVariables_ranges.csv")
 
 
