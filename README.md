@@ -1,4 +1,3 @@
-# READ ME: 
 #Coursera Course Project for Getting and Obtaining Data#
 
 
@@ -59,9 +58,9 @@ Output file:
 
 Supporting documentation:
 
-- READ_ME.md
+- README.md
 
-- codebook.md
+- codebook.txt
 
 codebook was generated using:
 http://www.tablesgenerator.com/markdown_tables#
