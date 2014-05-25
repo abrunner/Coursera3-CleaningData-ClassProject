@@ -4,7 +4,7 @@
 
 This dataset was created by calculating the mean of each data column for each activity for each patient using the dataset described in the README.md file. 
 The resulting dataset possesses mean data from the 66 selected "mean()" and std()" features across 180 rows (30 subjects x 6 activities).  The dataset possesses 
-3 header columns (subject, activity, group) and 66 numeric columns of the mean data for each patient for each activity for each of the 66 mean and std features.
+3 header columns (subject, activity, group) and 66 numeric columns of the mean data for each patient for each activity for each of the 66 mean and std features.  Features were normalized and bounded within [-1,1].
 
 
 
