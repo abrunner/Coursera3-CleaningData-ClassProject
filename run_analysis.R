@@ -101,10 +101,9 @@ range.tidy<-apply(tidy,2,range)
 
 write.table(tidy, "tidy_data_smartphone_measurements_by_subject_by_activity.txt", sep="\t",row.names=FALSE) 
 
-###Export tidy dataset names and ranges for use in Codebook.txt
+###Export tidy dataset names and ranges for use in CodeBook.md
 
 write.csv(t(range.tidy),"listOfVariables_ranges.csv")
-
 
 
 

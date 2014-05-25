@@ -60,9 +60,9 @@ Supporting documentation:
 
 - README.md
 
-- codebook.txt
+- CodeBook.md
 
 codebook was generated using:
 http://www.tablesgenerator.com/markdown_tables#
 
-Last updated May 23, 2014
+Last updated May 24, 2014
